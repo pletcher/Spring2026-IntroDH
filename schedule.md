@@ -1,4 +1,4 @@
-# Intro to Digital Humanities – Fall 2025 – Course Schedule
+# Intro to Digital Humanities – Spring 2026 – Course Schedule
 
 ## Abbreviations
 
