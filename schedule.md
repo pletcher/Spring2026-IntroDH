@@ -97,11 +97,26 @@
 
 ## 6. Week 6 – February 23
 
-- (Last day to drop a class)
-- (Last day to opt for pass/fail)
-- (Tentative) GIS Lab led by Carolyn Talmadge
+- In-class reading: Selections from Plato's _Phaedrus_
+- Discussion: How does AI shape our access to information? It what ways has it
+  changed our epistemological environment? Can we reclaim anything that has been
+  lost?
+- PyHum 1 (The Basics of Python)
 
 ### Week 6 – Homework
+
+- Eve, Martin Paul. "Open Access in the Humanities Disciplines." (BHDH pp. 223–232)
+- Egan, Patrick and Órla Murphy. "Sharing as CARE and FAIR in the Digital Humanities." (BHDH pp. 267–272)
+- Alvarado, Rafael. "Datawork and the Future of Digital Humanities." (BHDH pp. 361–372)
+- Finish setting up VS Code and PyHum 1
+- Bring to class next time: Prepare a reading response — use the instructions
+  from [Week 1](./week-1/homework.md) as a guide.
+
+## 7. Week 7 – March 2
+
+- GIS Lab led by Carolyn Talmadge
+
+## Week 7 – Homework
 
 - Finish GIS Lab
 - Toth, Gabor Mihaly. “Women in Early Modern Handwritten News: Random Walks and
@@ -110,23 +125,6 @@
 - Hicks, Michael Townsen, James Humphries, and Joe Slater. “ChatGPT Is
   Bullshit.” _Ethics and Information Technology_ 26, no. 2 (2024).
   [Article Link](https://doi.org/10.1007/s10676-024-09775-5)
-
-## 7. Week 7 – March 2
-
-- In-class reading: Selections from Plato's _Phaedrus_
-- Discussion: How does AI shape our access to information? It what ways has it
-  changed our epistemological environment? Can we reclaim anything that has been
-  lost?
-- PyHum 1 (The Basics of Python)
-
-### Week 7 – Homework
-
-- Eve, Martin Paul. "Open Access in the Humanities Disciplines." (BHDH pp. 223–232)
-- Egan, Patrick and Órla Murphy. "Sharing as CARE and FAIR in the Digital Humanities." (BHDH pp. 267–272)
-- Alvarado, Rafael. "Datawork and the Future of Digital Humanities." (BHDH pp. 361–372)
-- Finish setting up VS Code and PyHum 1
-- Bring to class next time: Prepare a reading response — use the instructions
-  from [Week 1](./week-1/homework.md) as a guide.
 
 ## 8. Week 8 – March 9
 
