@@ -16,7 +16,7 @@ exports:
 - Location: Eaton Hall 273
 - Instructor: Charles Pletcher
   ([charles.pletcher@tufts.edu](mailto:charles.pletcher@tufts.edu))
-- Instructor Office Hours: TTh 5-6pm or by appointment:
+- Instructor Office Hours: M 11am to 1pm or by appointment:
   [https://cal.com/pletcher](https://cal.com/pletcher)
 - Teaching Assistant: Matt Smith ([matt_j.smith@tufts.edu](mailto:matt_j.smith@tufts.edu))
 - Teaching Assistant Office Hours: TBD
