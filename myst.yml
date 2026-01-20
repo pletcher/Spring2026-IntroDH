@@ -1,0 +1,21 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: 05bec955-5898-4f9e-83f0-0742e40717cc
+  title: Tufts – Intro to Digital Humanities – Spring 2026
+  license: CC-BY-4.0
+  open_access: true
+  # description:
+  # keywords: []
+  # authors: []
+  # github:
+  # To autogenerate a Table of Contents, run "myst init --write-toc"
+site:
+  options:
+    folders: true
+    logo_text: Introduction to Digital Humanities
+  template: book-theme
+  title: Introduction to Digital Humanities
+  # options:
+  #   favicon: favicon.ico
+  #   logo: site_logo.png

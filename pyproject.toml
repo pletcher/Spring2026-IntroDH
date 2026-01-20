@@ -1,0 +1,9 @@
+[project]
+name = "tufts-s2026-intro-dh"
+version = "0.1.0"
+description = "Source repository for CLS 161/DH 101 at Tufts University --- Spring 2026"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "mystmd>=1.7.1",
+]
