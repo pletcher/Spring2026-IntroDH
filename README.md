@@ -26,6 +26,7 @@ exports:
   [https://cal.com/pletcher](https://cal.com/pletcher)
 - Teaching Assistant: Matt Smith ([matt_j.smith@tufts.edu](mailto:matt_j.smith@tufts.edu))
 - Teaching Assistant Office Hours: W 1:30pm to 3:30pm or by appointment
+  (Zoom: https://tufts.zoom.us/j/3197511296)
 
 ## Prerequisites
 
