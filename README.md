@@ -1,11 +1,15 @@
 ---
 authors:
-  - Charles Pletcher
+  - name: Charles Pletcher
+    affiliations:
+      - Tufts University
 exports:
   - format: typst
     template: lapreprint-typst
     output: exports/syllabus.pdf
     articles:
+      - file: README.md
+        title: Syllabus
       - file: schedule.md
         title: Course Schedule
       - file: lab-rubric.md
