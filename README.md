@@ -4,9 +4,15 @@ authors:
 exports:
   - format: typst
     template: lapreprint-typst
+    output: exports/syllabus.pdf
+    articles:
+      - file: schedule.md
+        title: Course Schedule
+      - file: lab-rubric.md
+        title: Lab Rubric
 ---
 
-# Introduction to Digital Humanities - Tufts University, Spring 2026
+## Introduction to Digital Humanities - Tufts University, Spring 2026
 
 ![Bandeau de Manifest des Digital Humanities by Michael Cixous, Public Domain, via Wikimedia Commons](./img/manifeste-bandeau.png)
 

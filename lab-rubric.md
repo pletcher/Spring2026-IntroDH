@@ -1,5 +1,9 @@
 # Lab Rubric
 
+For the purposes of specification grading, a passing lab generally
+falls the A or B range. A C-range lab can be revised and resubmitted
+once for regrading.
+
 ## The A Range
 
 A lab in the A range is mostly free from grammar and spelling mistakes.
@@ -31,7 +35,6 @@ on the methods and process that led to its results. The results
 might be incomplete or incompletely explained. In general,
 while the lab can be said to have been "completed" in a basic
 sense, the submission also shows evidence of a lack of effort.
-
 
 ## The D and F Range
 
