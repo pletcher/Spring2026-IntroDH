@@ -105,9 +105,12 @@
 
 ### Week 6 – Homework
 
-- Eve, Martin Paul. "Open Access in the Humanities Disciplines." (BHDH pp. 223–232)
-- Egan, Patrick and Órla Murphy. "Sharing as CARE and FAIR in the Digital Humanities." (BHDH pp. 267–272)
-- Alvarado, Rafael. "Datawork and the Future of Digital Humanities." (BHDH pp. 361–372)
+- Eve, Martin Paul. "Open Access in the Humanities Disciplines." (BHDH pp.
+  223–232)
+- Egan, Patrick and Órla Murphy. "Sharing as CARE and FAIR in the Digital
+  Humanities." (BHDH pp. 267–272)
+- Alvarado, Rafael. "Datawork and the Future of Digital Humanities." (BHDH pp.
+  361–372)
 - Finish setting up VS Code and PyHum 1
 - Bring to class next time: Prepare a reading response — use the instructions
   from [Week 1](./week-1/homework.md) as a guide.
@@ -118,6 +121,10 @@
 
 ## Week 7 – Homework
 
+_Nota bene_: From here on, the readings are meant to help you become more
+acquainted with what kinds of projects digital humanities practitioners
+undertake, rather than simply providing background on the field.
+
 - Finish GIS Lab
 - Toth, Gabor Mihaly. “Women in Early Modern Handwritten News: Random Walks and
   Semantic Wanderings in the Medici Archive.” _Journal of Digital History_ 3, no.
@@ -125,25 +132,23 @@
 - Hicks, Michael Townsen, James Humphries, and Joe Slater. “ChatGPT Is
   Bullshit.” _Ethics and Information Technology_ 26, no. 2 (2024).
   [Article Link](https://doi.org/10.1007/s10676-024-09775-5)
+- Bring to class next time: Prepare a reading response — use the instructions
+  from [Week 1](./week-1/homework.md) as a guide.
 
 ## 8. Week 8 – March 9
 
-- Discussion: What is datawork? What does it have to do with our work in this
-  class, and how might it shape our understanding of DH in general?
 - Python environment troubleshooting
-- Web scraping debugging
+- Programming Historian Lab 1 setup and debugging
 - PyHum 2 (Data Analysis with Pandas)
 
 ### Week 8 – Homework
 
-- [Web Scraping Lab](./web-scraping-lab.md)
+- [Programming Historian Lab 1](./week-8/ph-1-krewson2015.md)
 
 ## 9. Week 9 – March 23
 
 - Python debugging
-- PyHum 3 (Natural Language Processing with spaCy)
-- [Web Scraping Lab](./web-scraping-lab.md)
-- [NLP Lab](./nlp-lab.md)
+- PyHum 2 (Data Analysis with Pandas)
 
 ### Week 9 – Homework
 
@@ -154,29 +159,32 @@
   (BHDH pp. 287–294)
 - Sichani, Anna-Maria. "Embracing Decline in Digital Scholarship beyond
   Sustainability." (BHDH pp. 317–324)
-- [NLP Lab](./nlp-lab.md)
+- Bring to class next time: Prepare a reading response — use the instructions
+  from [Week 1](./week-1/homework.md) as a guide.
 
 ## 10. Week 10 – March 30
 
-- Discussion: How do the tools that we use affect our understanding of the
-  materials we study?
-- PyHum 4 (Other Applications of Python)
+- PyHum 3 (Natural Language Processing with ~~spaCy~~ Stanza)
+- Think back to what you were able to accomplish with Voyant.
+  What features from Voyant would you like to implement on your own?
 
 ### Week 10 – Homework
+
+- [Programming Historian Lab 2](./week-10/ph-2-bcd2024.md)
+- Potential follow-up lesson: https://programminghistorian.org/en/lessons/clustering-visualizing-word-embeddings
+
+## 11. Week 11 – April 6
+
+- Python troubleshooting
+- PyHum 4 (Other Applications of Python)
+- PyHum 5 (Designing an Application with Streamlit)
+
+### Week 11 – Homework
 
 - Benjamin, Walter. “The Work of Art in the Age of Mechanical Reproduction.” In
   _Illuminations_, edited by Hannah Arendt, translated by Harry Zohn. Schocken
   Books, 1969.
 - Berry, David M. "AI, Ethics, and Digital Humanities." (BHDH pp. 445–458)
-- [NLP Lab](./nlp-lab.md)
-
-## 11. Week 11 – April 6
-
-- Discussion: How can we use computational methods responsibly in the humanities?
-- PyHum 5 (Designing an Application with Streamlit)
-
-### Week 11 – Homework
-
 - Allen, Graham and Jennifer Debie. "Digital Humanities in the Age of
   Extinction." (BHDH pp. 459–465)
 
