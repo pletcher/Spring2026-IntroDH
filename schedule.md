@@ -37,7 +37,7 @@ Class cancelled due to snowstorm.
 - {del}`TEI Consortium, "A Gentle Introduction to XML." <https://tei-c.org/release/doc/tei-p5-doc/en/html/SG.html>`
 - {del}`Optional: MLA, _Digital Pedagogy in the Humanities_, ["Annotation"](https://digitalpedagogy.mla.hcommons.org/keywords/annotation/)`
 - Buzzetti, Dino. 2002. ["Digital Representation and the Textual
-  Model."](http://muse.jhu.edu/content/crossref/journals/new_literary_history/v033/33.1buzzetti.html)
+  Model."](https://muse.jhu.edu/article/24607)
 
 ## 3. Week 3 – February 2
 
