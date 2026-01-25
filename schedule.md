@@ -25,23 +25,26 @@
 - **Bring to class next time**: Reading response. See
   [week-1/homework.md](./week-1/homework.md) for instructions.
 
-## 2. Week 2 – January 26
+## 2. ~~Week 2 – January 26~~
+
+Class cancelled due to snowstorm.
 
 - Visit to Special Collections (Tisch 103)
-- Vaughan, Nicolás. 2025. "Introduction to Encoding Texts in TEI (Part 1)."
-  _Programming Historian_.
-  <https://programminghistorian.org/en/lessons/encoding-texts-tei-1>
-- [TEI Lab](./week-2/tei-lab.md)
 
-### Week 2 – Homework
+### ~~Week 2 – Homework~~
 
-- [TEI Lab](./week-2/tei-lab.md)
-- TEI Consortium, "A Gentle Introduction to XML." <https://tei-c.org/release/doc/tei-p5-doc/en/html/SG.html>
-- Buzzetti, Dino. 2002. ["Digital Representation and the Textual Model."](http://muse.jhu.edu/content/crossref/journals/new_literary_history/v033/33.1buzzetti.html)
-- Optional: MLA, _Digital Pedagogy in the Humanities_, ["Annotation"](https://digitalpedagogy.mla.hcommons.org/keywords/annotation/)
+- ~~[TEI Lab](./week-3/tei-lab.md)~~
+- ~~TEI Consortium, "A Gentle Introduction to XML." <https://tei-c.org/release/doc/tei-p5-doc/en/html/SG.html>~~
+- ~~Optional: MLA, _Digital Pedagogy in the Humanities_, ["Annotation"](https://digitalpedagogy.mla.hcommons.org/keywords/annotation/)~~
+- Buzzetti, Dino. 2002. ["Digital Representation and the Textual
+  Model."](http://muse.jhu.edu/content/crossref/journals/new_literary_history/v033/33.1buzzetti.html)
 
 ## 3. Week 3 – February 2
 
+- Vaughan, Nicolás. 2025. "Introduction to Encoding Texts in TEI (Part 1)."
+  _Programming Historian_.
+  <https://programminghistorian.org/en/lessons/encoding-texts-tei-1>
+- [TEI Lab](./week-3/tei-lab.md)
 - Byszuk, Joanna. "On Computers in Text Analysis." (BHDH pp. 159–168)
 - Introduction to Voyant:
   <https://voyant-tools.org/docs/tutorial-tutorial.html>
@@ -171,7 +174,7 @@ undertake, rather than simply providing background on the field.
 ### Week 10 – Homework
 
 - [Programming Historian Lab 2](./week-10/ph-2-bcd2024.md)
-- Potential follow-up lesson: https://programminghistorian.org/en/lessons/clustering-visualizing-word-embeddings
+- Potential follow-up lesson: <https://programminghistorian.org/en/lessons/clustering-visualizing-word-embeddings>
 
 ## 11. Week 11 – April 6
 
