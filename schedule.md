@@ -25,17 +25,17 @@
 - **Bring to class next time**: Reading response. See
   [week-1/homework.md](./week-1/homework.md) for instructions.
 
-## 2. ~~Week 2 – January 26~~
+## 2. {del}`Week 2 – January 26`
 
 Class cancelled due to snowstorm.
 
 - Visit to Special Collections (Tisch 103)
 
-### ~~Week 2 – Homework~~
+### {del}`Week 2 – Homework`
 
-- ~~[TEI Lab](./week-3/tei-lab.md)~~
-- ~~TEI Consortium, "A Gentle Introduction to XML." <https://tei-c.org/release/doc/tei-p5-doc/en/html/SG.html>~~
-- ~~Optional: MLA, _Digital Pedagogy in the Humanities_, ["Annotation"](https://digitalpedagogy.mla.hcommons.org/keywords/annotation/)~~
+- {del}`[TEI Lab](./week-3/tei-lab.md)`
+- {del}`TEI Consortium, "A Gentle Introduction to XML." <https://tei-c.org/release/doc/tei-p5-doc/en/html/SG.html>`
+- {del}`Optional: MLA, _Digital Pedagogy in the Humanities_, ["Annotation"](https://digitalpedagogy.mla.hcommons.org/keywords/annotation/)`
 - Buzzetti, Dino. 2002. ["Digital Representation and the Textual
   Model."](http://muse.jhu.edu/content/crossref/journals/new_literary_history/v033/33.1buzzetti.html)
 
