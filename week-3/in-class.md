@@ -5,7 +5,7 @@
 - Vaughan, Nicolás. 2025. "Introduction to Encoding Texts in TEI (Part 1)."
   _Programming Historian_.
   <https://programminghistorian.org/en/lessons/encoding-texts-tei-1>
-- [TEI Lab](./week-2/tei-lab.md)
+- [TEI Lab](./tei-lab.md)
 
 ## Originally planned for Week 3
 
