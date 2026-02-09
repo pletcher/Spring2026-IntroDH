@@ -12,9 +12,8 @@ consider how Austen's style develops over time.
 
 Your submission will take the form of a short (about 1000-word) paper, describing
 
-1. The process and criteria that you used to assemble a corpus;
-2. The tools in Voyant that you used to analyze the corpus, and why;
-3. A critical discussion of what your data reveals about Austen's novels.
+1. The tools in Voyant that you used to analyze the corpus, and why;
+2. A critical discussion of what your data reveals about Austen's novels.
 
 Note that, although the emphasis here is on distant reading, you might have to
 read a bit of these novels!
