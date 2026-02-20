@@ -88,7 +88,7 @@ digital subscriptions.)
 - William Mattingly. _Introduction to Python for Humanists_. 2022.
   <https://python-textbook.pythonhumanities.com/>
 - James O'Sullivan, ed. _The Bloomsbury Handbook to the Digital Humanities_.
-  Bloomsbury, 2022.
+  Bloomsbury, 2022. <https://tufts.primo.exlibrisgroup.com/permalink/01TUN_INST/1kc9gia/alma991018961776203851>
 - Plato. _Statesman. Philebus. Ion._ Translated by Harold North Fowler, W. R.
   M. Lamb. Loeb Classical Library 164. Cambridge, MA: Harvard University Press, 1925.<https://www.loebclassics.com/view/LCL164/1925/volume.xml>
 
