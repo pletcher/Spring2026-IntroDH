@@ -1,15 +1,18 @@
 # Week 7 – Homework
 
-_Nota bene_: From here on, the readings are meant to help you become more
-acquainted with what kinds of projects digital humanities practitioners
-undertake, rather than simply providing background on the field.
-
-- Eve, Martin Paul. "Open Access in the Humanities Disciplines." (BHDH pp.
-  223–232)
-- Egan, Patrick and Órla Murphy. "Sharing as CARE and FAIR in the Digital
-  Humanities." (BHDH pp. 267–272)
-- Alvarado, Rafael. "Datawork and the Future of Digital Humanities." (BHDH pp.
-  361–372)
-- Finish setting up VS Code and PyHum 1
+- Finish GIS Lab
+- Toth, Gabor Mihaly. “Women in Early Modern Handwritten News: Random Walks and
+  Semantic Wanderings in the Medici Archive.” _Journal of Digital History_ 3, no.
+  2 (2024). [Article Link](https://doi.org/10.1515/JDH-2023-0010?locatt=label:JDHFULL)
+- Hicks, Michael Townsen, James Humphries, and Joe Slater. “ChatGPT Is
+  Bullshit.” _Ethics and Information Technology_ 26, no. 2 (2024).
+  [Article Link](https://doi.org/10.1007/s10676-024-09775-5)
 - Bring to class next time: Prepare a reading response — use the instructions
   from [Week 1](../week-1/homework.md) as a guide.
+
+
+## Resources
+
+Grunewald, Susan, and Ruth Mostern. 2024. “Working with Named Places: How and
+Why to Build a Gazetteer.” Programming Historian, March 27.
+<https://programminghistorian.org/en/lessons/space-place-gazetteers>.
