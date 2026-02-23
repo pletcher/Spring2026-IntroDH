@@ -1,6 +1,6 @@
 # Week 5 – Homework
 
-- Dombroski, Quinn. “Does Coding Matter for Doing Digital Humanities?” (BHDH
+- Dombrowski, Quinn. “Does Coding Matter for Doing Digital Humanities?” (BHDH
   pp. 137–146)
 - Da, Nan Z. “The Computational Case against Computational Literary Studies.”
   _Critical Inquiry_ 45, no. 3 (2019): 601–39.
