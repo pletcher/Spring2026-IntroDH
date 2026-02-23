@@ -10,4 +10,4 @@ undertake, rather than simply providing background on the field.
   Humanities." (BHDH pp. 267–272)
 - Alvarado, Rafael. "Datawork and the Future of Digital Humanities." (BHDH pp.
   361–372)
-- Finish setting up VS Code and PyHum 1
+- Finish setting up VS Code and PyHum 1 (focus on sections 4, 5, and 6)

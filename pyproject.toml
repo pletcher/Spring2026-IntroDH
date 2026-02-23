@@ -6,4 +6,5 @@ readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
     "mystmd>=1.7.1",
+    "pip>=26.0.1",
 ]
