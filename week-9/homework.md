@@ -1,4 +1,4 @@
-# Week 9 – Homework
+# Week 9 – Homework 
 
 - Herrmann, J Berenike. “Tool Criticism in Practice. On Methods, Tools and Aims
   of Computational Literary Studies.” _Digital Humanities Quarterly_ 17, no. 2
