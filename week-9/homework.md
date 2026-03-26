@@ -1,8 +1,8 @@
-# Week 9 – Homework 
+# Week 9 – Homework
 
 - Herrmann, J Berenike. “Tool Criticism in Practice. On Methods, Tools and Aims
   of Computational Literary Studies.” _Digital Humanities Quarterly_ 17, no. 2
-  (2023).
+  (2023). [Herrmann 2023](https://dhq.digitalhumanities.org/vol/17/2/000687/000687.html)
 - Kemman, Max. “Tool Criticism through Playful Digital Humanities Pedagogy.”
   (BHDH pp. 287–294)
 - Sichani, Anna-Maria. "Embracing Decline in Digital Scholarship beyond
