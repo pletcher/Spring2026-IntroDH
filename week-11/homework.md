@@ -8,3 +8,11 @@
   Extinction." (BHDH pp. 459–465)
 - Bring to class next time: Prepare a reading response — use the instructions
 from [Week 1](../week-1/homework.md) as a guide.
+
+## Optional
+
+This podcast episode touches on many topics that are relevant to class discussions
+on data ethics, preservation, etc.
+
+- Seybold, Matthew. "The Secret History of Canvas LMS, Corporate Raiders, & The Chatbot Bubble (Vandal Live at UVU)."
+_The American Vandal_, March 24, 2026. https://overcast.fm/+AAkiQ13ioK0
